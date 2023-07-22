@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/137431121?s=200&v=4" height="230"/>
 </p>
 <hr>
-<h1 align="center">We're<a href="https://github.com/Pouch-Nepal">Pouch Nepal<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">We're <a href="https://github.com/Pouch-Nepal">Pouch Nepal<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Us! 😎</h1>
 
