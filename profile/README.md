@@ -13,7 +13,13 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/shishirregmi" target="blank"><img align="center" src="https://img.shields.io/badge/Shishir Regmi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:pouchnepal@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/pouchnepal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/pouch-nepal" target="blank"><img align="center" src="https://img.shields.io/badge/Pouch Nepal-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shishirregmi" target="blank"><img align="center" src="https://img.shields.io/badge/Shishir Regmi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:pouchnepal@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/pouchnepal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
+<a href="https://www.github.com/pouch-nepal" target="blank"><img align="center" src="https://img.shields.io/badge/Pouch Nepal-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+<p align="center">
+<a href="mailto:contact@shishirregmi.com.np" target="blank"><img align="center" src="https://img.shields.io/badge/contact@shishirregmi.com.np-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
+<a href="https://www.github.com/shishirregmi" target="blank"><img align="center" src="https://img.shields.io/badge/Shishir Regmi-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 <h1>Thank You! 🤵 </h1>
 <Br>
